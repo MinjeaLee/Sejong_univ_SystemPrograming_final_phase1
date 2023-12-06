@@ -1,9 +1,10 @@
 /* client_mul.c
  * Author : Lee Minjae
  * ID     : 21011741
- * dept   : Information Security 
+ * dept   : Information Security
  * date   : 2023.12.06
  * Contact: leejoy2@sju.ac.kr
+ * repo   : https://github.com/MinjeaLee/Sejong_univ_SystemPrograming_final_phase1
 */
 
 #include "client.h"
